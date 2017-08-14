@@ -1,12 +1,15 @@
 ## SFDC Chatter API playground with curl
 
 
-#### bash script
+### bash script
 
 [sfdc_chatter.sh](./sfdc_chatter.sh)
 
+### Steps:
 
- Edit the [sfdc_chatter.sh](./sfdc_chatter.sh) to fill in your ACCESS_TOKEN
+1. Edit the [sfdc_chatter.sh](./sfdc_chatter.sh) to fill in your ACCESS_TOKEN
+
+2. Play with examples shown here
 
 
 
