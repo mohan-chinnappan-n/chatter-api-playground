@@ -3,16 +3,21 @@
 
 #### bash script
 
+[sfdc_chatter.sh](./sfdc_chatter.sh)
+
 ``` bash
 
 # filename: sfdc_chatter.sh
 # Bash shell to acts as a playground to SFDC Chatter API
+# author: mohan chinnappan
+
 # resource supported:
 # 1. /users/me
 # 2. filter examples
 # 3. getMyNewsFeed
 # 4. feedElements
 # 5. postComment
+
 
 
 
@@ -88,12 +93,34 @@ fi
 ### Examples in action
 
 #### users/me
-![users/me](User_me.png)
+![users/me](./img/user_me.png)
 
-![](Address-filter.png)
-![](Photo-filter.png)
-![](GetMyNewsFeed.png)		
-![](FeedElement-for-oppty.png)
-![](PostComment-screen.png)
-![](Comment.json.png)
-![](PostComment-example.png)
+#### Address filter
+![](./img/address-filter.png)
+
+#### Address filter
+![](./img/photo-filter.png)
+
+### getMyNewsFeed
+![](./img/getMyNewsFeed.png)		
+
+### get feed elements for the opportunity
+![](./img/feedElement-for-oppty.png)
+
+
+
+### Post comment
+![](./img/postComment-example.png)
+
+### Data file for posting comment
+![](./img/comment.json.png)
+
+### How it looks in the chatter page
+![](./img/postComment-screen.png)
+
+### Data file for posting comment
+![](./img/comment.json.png)
+
+
+### References
+1. [Chatter API doc](https://developer.salesforce.com/docs/atlas.en-us.chatterapi.meta/chatterapi/features.htm)

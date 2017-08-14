@@ -1,5 +1,7 @@
 # filename: sfdc_chatter.sh
 # Bash shell to acts as a playground to SFDC Chatter API
+# author: mohan chinnappan
+
 # resource supported:
 # 1. /users/me
 # 2. filter examples
