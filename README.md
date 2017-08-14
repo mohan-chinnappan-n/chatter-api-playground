@@ -6,7 +6,7 @@
 [sfdc_chatter.sh](./sfdc_chatter.sh)
 
 
- Edit the sfdc_chatter.sh to fill in your ACCESS_TOKEN
+ Edit the [sfdc_chatter.sh](./sfdc_chatter.sh) to fill in your ACCESS_TOKEN
 
 
 
