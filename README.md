@@ -32,7 +32,7 @@
 ### Post comment
 ![](./img/postComment-example.png)
 
-### Data file for posting comment
+### Data file for posting comment [comments.json](./comment.json)
 ```json
 {
    "body":{
