@@ -1,5 +1,5 @@
 # filename: sfdc_chatter.sh
-# Bash shell to acts as a playground to SFDC Chatter API
+# Bash shell script to acts as a playground to SFDC Chatter API
 # author: mohan chinnappan
 
 # resource supported:
