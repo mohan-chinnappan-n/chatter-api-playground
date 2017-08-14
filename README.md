@@ -22,7 +22,7 @@
 #### Address filter
 ![](./img/address-filter.png)
 ------
-#### Address filter
+#### Photo filter
 ![](./img/photo-filter.png)
 ------
 #### getMyNewsFeed
