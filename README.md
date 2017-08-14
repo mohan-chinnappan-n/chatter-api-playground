@@ -8,7 +8,7 @@
 
  Edit the sfdc_chatter.sh to fill in your ACCESS_TOKEN
 
- 
+
 
 ### Examples in action
 
@@ -33,13 +33,22 @@
 ![](./img/postComment-example.png)
 
 ### Data file for posting comment
-![](./img/comment.json.png)
+```json
+{
+   "body":{
+      "messageSegments":[
+         {
+            "type":"Text",
+            "text":"Another New comment from  curl "
+         }
+      ]
+   }
+}
+```
 
 ### How it looks in the chatter page
 ![](./img/postComment-screen.png)
 
-### Data file for posting comment
-![](./img/comment.json.png)
 
 
 ### References
