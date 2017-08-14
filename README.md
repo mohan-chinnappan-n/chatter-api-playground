@@ -21,18 +21,18 @@
 #### Address filter
 ![](./img/photo-filter.png)
 
-### getMyNewsFeed
+#### getMyNewsFeed
 ![](./img/getMyNewsFeed.png)		
 
-### get feed elements for the opportunity
+#### get feed elements for the opportunity
 ![](./img/feedElement-for-oppty.png)
 
 
 
-### Post comment
+#### Post comment
 ![](./img/postComment-example.png)
 
-### Data file for posting comment [comments.json](./comment.json)
+#### Data file for posting comment [comments.json](./comment.json)
 ```json
 {
    "body":{
